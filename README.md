@@ -1,4 +1,6 @@
-欢迎来到我的主页！我将会在这里分享一些有趣的事情！
+欢迎来到我的主页！
+
+我将会在这里分享一些有趣的事情！
 
 <hr style="height:3px;border:none;border-top:3px double blue;" /> 
 
@@ -6,9 +8,9 @@
 
 [arXiv](https://arXiv.org)
 
-[USTC邮件系统](https://email.ustc.edu.cn)
-
 [Overleaf](https://overleaf.com)
+
+[USTC邮件系统](https://email.ustc.edu.cn)
 
 <hr style="height:3px;border:none;border-top:3px double blue;" /> 
 
